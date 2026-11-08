@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra: Ֆուտբոլ և Ճանապարհորդություն",
+  "description": "Իսպաներեն-հայերեն Պասապալաբրա (El Rosco) խաղ՝ 27 հարցեր ֆուտբոլի և ճանապարհորդության թեմայով, 30 րոպե ժամանակաչափով և թարգմանություններով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
